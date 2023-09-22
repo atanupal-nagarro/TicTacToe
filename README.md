@@ -2,6 +2,10 @@
 
 TicTacToe - Play against computer - You can never win in this Tic Tac Toe game.
 
+**Team Members**
+atanu.pal@nagarro.com
+renu.singh@nagarro.com
+
 **About TicTacToe: How to Play**
 
 **Rules** 
