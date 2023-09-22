@@ -95,8 +95,6 @@ Please enter either "y" or "n" only (case-insensitive)
 -1
 Please enter either "y" or "n" only (case-insensitive)
 
-^D
-Exiting the game!
 
 2. X's turn; enter a slot number to place X in:
 
@@ -109,7 +107,6 @@ Please enter integer number between 1 and 9, please re-enter slot number:
 1
 Slot already taken, please re-enter slot number....
 
-^D
-Exiting the game!
+
 
 
