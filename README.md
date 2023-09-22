@@ -10,7 +10,7 @@ Two players take turns playing on a three-by-three board. One player plays Xs an
 
 
 **LOC Screenshot**
-![Screenshot](screenshot.png)
+![Screenshot](252LOC.png)
 
 
 **Set-up Details**
