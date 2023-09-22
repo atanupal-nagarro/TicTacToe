@@ -9,7 +9,7 @@ Two players take turns playing on a three-by-three board. One player plays Xs an
 
 
 
-**LOC Screenshot**
+**LOC Screenshot** (252 Lines of Code)
 ![Screenshot](252LOC.png)
 
 
