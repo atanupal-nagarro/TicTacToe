@@ -1,0 +1,61 @@
+Welcome to Tic Tac Toe game - You can never win !!!
+|-----|-----|-----|
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  5  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+Player(X) will play first. Please enter a slot number to place X in:
+1
+|-----|-----|-----|
+|  X  |  2  |  3  |
+|-----------------|
+|  4  |  5  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+Computer has played the move and placed "O"
+|-----|-----|-----|
+|  X  |  2  |  3  |
+|-----------------|
+|  4  |  O  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+X's turn; enter a slot number to place X in:
+2
+|-----|-----|-----|
+|  X  |  X  |  3  |
+|-----------------|
+|  4  |  O  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+Computer has played the move and placed "O"
+|-----|-----|-----|
+|  X  |  X  |  O  |
+|-----------------|
+|  4  |  O  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+X's turn; enter a slot number to place X in:
+4
+|-----|-----|-----|
+|  X  |  X  |  O  |
+|-----------------|
+|  X  |  O  |  6  |
+|-----------------|
+|  7  |  8  |  9  |
+|-----|-----|-----|
+Computer has played the move and placed "O"
+|-----|-----|-----|
+|  X  |  X  |  O  |
+|-----------------|
+|  X  |  O  |  6  |
+|-----------------|
+|  O  |  8  |  9  |
+|-----|-----|-----|
+Computer won! Thanks for playing.
+Want to play again (y/n)? Please enter either "y" or "n" only (case-insensitive)
