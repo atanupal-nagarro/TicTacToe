@@ -21,7 +21,7 @@ Two players take turns playing on a three-by-three board. One player plays Xs an
 Follow these steps to setup the TicTacToe game
 
 1. **Download the Game** To begin your TicTacToe Game, download the below mentioned repository to your local machine as a ZIP file.
-GIT Url: https://atanupal-nagarro/TicTacToe
+GIT Url: https://github.com/atanupal-nagarro/TicTacToe
 
 2. **Java Pre-requisite** Make sure you that Java is installed on your computer. The game requires Java 8 or a higher version to run.
 
