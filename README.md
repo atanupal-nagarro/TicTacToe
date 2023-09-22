@@ -86,6 +86,8 @@ Want to play again (y/n)?
 
 
 **Error Handling Coverage**
+
+<pre>
 1. Want to play again: Accepts only y/n as input
 
 Want to play again (y/n)?
@@ -107,6 +109,6 @@ Please enter integer number between 1 and 9, please re-enter slot number:
 1
 Slot already taken, please re-enter slot number....
 
-
+</pre>
 
 
